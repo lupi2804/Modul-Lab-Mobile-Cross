@@ -1,0 +1,58 @@
+[
+    { 
+      "id": 1, 
+      "name": "Silvi Dian Pramana", 
+      "info": "00000083585", 
+      "photo_url": "foto_Silvi.jpg",
+      "email": "silvi.pramana@example.com"
+    },
+    { 
+      "id": 2, 
+      "name": "Shella Faulina", 
+      "info": "00000079493", 
+      "photo_url": "Shella.jpg",
+      "email": "shella.faulina@example.com"
+    },
+    { 
+      "id": 3, 
+      "name": "Tulip", 
+      "info": "Ini adalah bunga kesayanganku", 
+      "photo_url": "bungaku.jpg",
+      "email": "tulip@example.com"
+    },
+    { 
+        "id": 4, 
+        "name": "Logo", 
+        "info": "Ini adalah Logo S", 
+        "photo_url": "logo_s.jpeg",
+        "email": "logos@example.com"
+      },
+      { 
+        "id": 5, 
+        "name": "Loading", 
+        "info": "Ini Proses Loading", 
+        "photo_url": "Ellipsis.gif",
+        "email": "Ellipsis@example.com"
+      },
+    { 
+      "id": 4, 
+      "name": "Silvi Dian Pramana", 
+      "info": "00000083585", 
+      "photo_url": "foto_Silvi.jpg",
+      "email": "silvi.pramana@example.com"
+    },
+    { 
+      "id": 5, 
+      "name": "Shella Faulina", 
+      "info": "00000079493", 
+      "photo_url": "Shella.jpg",
+      "email": "shella.faulina@example.com"
+    },
+    { 
+      "id": 6, 
+      "name": "Bunga", 
+      "info": "Ini adalah bunga ", 
+      "photo_url": "download.jpeg",
+      "email": "bunga@example.com"
+    }
+]
